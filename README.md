@@ -1,6 +1,18 @@
 # movies_app
 
-A new Flutter project.
+#Simple Movies application using Flutter and dart
+
+# Features :-
+- Clean architecture
+- Cubit state management
+- Dartz
+- Get_it
+- Animation
+- Shimmer
+- Carusal_Slider
+- Locallization
+- Dark mode
+- connevtivity_plus
 
 ## Getting Started
 
