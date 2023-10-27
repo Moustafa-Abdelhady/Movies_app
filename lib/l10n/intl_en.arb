@@ -1,0 +1,8 @@
+{
+   "appName" : "Movies",
+   "popular" : "Popular",
+   "topRated" : "Top Rated",
+   "seeMore" : "See More",
+   "genres" : "Genres",
+   "moreLikeThis" : "More like this"
+}
