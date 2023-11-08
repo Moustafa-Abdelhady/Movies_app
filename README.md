@@ -1,6 +1,18 @@
 # movies_app
+# APK : https://drive.google.com/file/d/1GmToahTHCmrm8YUigWEZ_Y3YG7-hHaEc/view?usp=sharing
+#Simple Movies application using Flutter and dart
 
-A new Flutter project.
+# Features :-
+- Clean architecture
+- Cubit state management
+- Dartz
+- Get_it
+- Animation
+- Shimmer
+- Carusal_Slider
+- Locallization
+- Dark mode
+- connevtivity_plus
 
 ## Getting Started
 
